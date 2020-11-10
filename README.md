@@ -1,6 +1,6 @@
 # Whale Off the Port(folio)
 
-![Portfolio Analysis](Images/portfolio-analysis.png)
+![Portfolio Analysis](Image/portfolio-analysis.png)
 
 ## Background
 
@@ -36,7 +36,7 @@ First, read and clean several CSV files for analysis. The CSV files include whal
 
 5. Join `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
 
-  ![returns-dataframe.png](Images/returns-dataframe.png)
+  ![returns-dataframe.png](Image/returns-dataframe.png)
 
 ### Conduct Quantitative Analysis
 
@@ -115,7 +115,7 @@ Harold is ecstatic that you were able to help him prove that the algorithmic tra
 
 ---
 
-## Submission
+
 
 1. Create a Jupyter Notebook containing your data preparation, analysis, and visualizations. Put your analysis and answers to the assignment questions in raw text (markdown) cells in the report.
 
